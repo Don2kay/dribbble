@@ -26,15 +26,16 @@ margin: 20px;
 }
 
 a.Contact {background-color: rgb(231, 192, 15);
+box-sizing: border-box;
 color: black;
 display: inline-block;
 border: 10px solid rgb(231, 192, 15);
 border-radius: 40px;
-box-sizing: border-box;
+padding-right: 5px;
+padding-left: 5px;
 text-align: right;
-margin-left: 250px;
+margin-left: 230px;
 }
-
 
 div {background-color: rgb(231, 192, 15);
 padding: 100px;
