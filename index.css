@@ -1,0 +1,76 @@
+body {color: white;
+margin: 0%;}
+
+header {margin-bottom: 30px;}
+
+h1 {color: black;
+display: inline-block;
+width: 15%;
+margin-left: 100px;
+}
+
+a {color: black;
+text-decoration: none;
+}
+
+nav {color: black;
+display: inline-block;
+text-decoration: none;
+text-align: right;
+width: 45%;
+}
+
+nav a {color: black;
+text-decoration: none;
+margin: 20px;
+}
+
+a.Contact {background-color: rgb(231, 192, 15);
+color: black;
+display: inline-block;
+border: 10px solid rgb(231, 192, 15);
+border-radius: 40px;
+box-sizing: border-box;
+text-align: right;
+margin-left: 250px;
+}
+
+
+div {background-color: rgb(231, 192, 15);
+padding: 100px;
+padding-bottom: 20px;
+border-radius: 20px;
+margin-left: 100px;
+margin-right: 100px;
+margin-bottom: 100px;
+}
+
+h2 {color: black;
+text-align: left;
+}
+
+span {color: white;}
+
+p {color: black;}
+
+h2 {font-size: 50px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 200px;
+min-width: 450px;
+max-width: 500px;}
+
+div .Two {color: white;
+background-color: black;
+border: 10px solid black;
+border-radius: 35px;
+}
+
+div #One {min-width: 300px;
+max-width: 400px;
+margin-bottom: 50px;
+}
+
+div #Scrolldown {margin-top: 100px;}
+
+.two {height: 10px;
+background-color: white;}
